@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Jiahaohu's blog"
+description: "胡家豪的个人技术博客"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://joseph1hhh.github.io/images/avatar.png
+favicon: https://joseph1hhh.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 1178868434@qq.com
   facebook:
-  github: pianfan
+  github: joseph1hhh
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
